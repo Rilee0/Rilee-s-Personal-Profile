@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Rilee's Personal Profile - Things I Enjoy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <br>
+    <header>
+    <br>
+       <h1>Rilee Young</h1>
+       <ul id="list">
+           <li id="top"><a href="index.html" id="link">Home</a></li>
+           <li id="top"><a href="fave_songs" id="link">Favourite Songs</a></li>
+           <li id="top"><a href="fave_places" id="link">Favourite Places</a></li>
+           <li id="top"><a href="things_I_enjoy" id="link">Things I Enjoy</a></li>
+       </ul>
+    </header>
+    <br>
+    <h3>Activities I enjoy</h3>
+    <ul>
+        <li>Mountain Biking</li>
+        <br>
+        <li>Swimming</li>
+        <br>
+        <li>Artistic Swimming</li>
+        <br>
+        <li>Hiking</li>
+        <br>
+        <li>Running</li>
+        <br>
+        <li>Climbing</li>
+        <br>
+        <li>Skiing and Snowboarding</li>
+    </ul>
+    <br>
+    <img src="mtb_pic_3.jpeg" id="three">
+    <img src="skinning.jpeg" id="three">
+    <img src="lake.jpeg" id="three">
+    <br>
+    <br>
+    <h3>Hobbies I enjoy</h3>
+    <ul>
+        <li>Reading</li>
+        <br>
+        <li>Writing</li>
+        <br>
+        <li>Listening to music</li>
+        <br>
+        <li>Jewelry making</li>
+    </ul>
+    <br>
+    <img src="read.jpeg" id="three">
+    <img src="write.jpeg" id="three">
+    <img src="listen.jpeg" id="three">
+    <p id="white">I need a space at the bottom of this, lol. Don't judge please.</p>
+</body>

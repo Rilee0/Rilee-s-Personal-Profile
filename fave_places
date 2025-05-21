@@ -1,0 +1,47 @@
+<!DOCTyPE html>
+
+<head>
+    <title>Rilee's Personal Profile - Favourite Places</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <br>
+    <header>
+    <br>
+       <h1>Rilee Young</h1>
+       <ul id="list">
+           <li id="top"><a href="index.html" id="link">Home</a></li>
+           <li id="top"><a href="fave_songs" id="link">Favourite Songs</a></li>
+           <li id="top"><a href="fave_places" id="link">Favourite Places</a></li>
+           <li id="top"><a href="things_I_enjoy" id="link">Things I Enjoy</a></li>
+       </ul>
+    </header>
+    <br>
+    <h3>My favourite places</h3>
+    <p>I have lived in Queenstown since 2018, and have since accustomed to calling this place home.
+        With my family and friends, I have explored the local mountains, trails and backcountry.
+        We often hike or bike to these places, making them extra-special.
+        Below are photos of these unique places I enjoy visiting.</p>
+    <img src="mountain.jpeg" id="places">
+    <p id="caption">This is a picture of the view from the top of a walk on Coronet Peak.</p>
+    <img src="river.jpeg" id="places">
+    <p id="caption">This is a  river we walked beside while hiking Wye Creek valley.</p>
+    <img src="lake.jpeg" id="places">
+    <p id="caption">Lake Wakatipu from Wye Creek valley.</p>
+    <img src="tower.jpeg" id="places">
+    <p id="caption">A rock tower next to an alpine lake we hiked up to.</p>
+    <img src="skinning.jpeg" id="places">
+    <p id="caption">A morning ski tour walk up Sarah Sue on Coronet Peak.</p>
+    <img src="rocks.jpeg" id="places">
+    <p id="caption">A bike trail in Alexandra.</p>
+    <img src="bridge.jpeg" id="places">
+    <p id="caption">The Shotover bungy bridge from the other side after we rode from Shotover.</p>
+    <img src="wye.jpeg" id="places">
+    <p id="caption">Camping in Wye Creek valley next to a little tarn.</p>
+    <img src="skippers.jpeg" id="places">
+    <p id="caption">The Skippers Canyon bridge we drove to.</p>
+    <img src="bird.jpeg"id="places">
+    <p id="caption">My and my family on a the Moonlight track through the bush with birds and kea overhead.</p>
+    <p id="white">I need a space at the bottom of this, lol. Don't judge please.</p>
+</body>

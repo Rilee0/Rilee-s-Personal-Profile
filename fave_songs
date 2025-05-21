@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Rilee's Personal Profile - Favourite Songs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <br>
+    <header>
+       <br>
+       <h1>Rilee Young</h1>
+       <ul id="list">
+           <li id="top"><a href="index.html" id="link">Home</a></li>
+           <li id="top"><a href="fave_songs" id="link">Favourite Songs</a></li>
+           <li id="top"><a href="fave_places" id="link">Favourite Places</a></li>
+           <li id="top"><a href="things_I_enjoy" id="link">Things I Enjoy</a></li>
+       </ul>
+    </header>
+    <br>
+    <h3>Here is a list of my top artists</h3>
+    <ol>
+        <li>Tate McRae</li>
+        <br>
+        <li>Sabrina Carpenter</li>
+        <br>
+        <li>Olivia Rodrigo</li>
+        <br>
+        <li>Ariana Grande</li>
+        <br>
+        <li>Emei</li>
+    </ol>
+    <br>
+    <h3>Here are my top albums</h3>
+    <img src="shortnsweet.jpg">
+    <img src="emailsicantsend.webp">
+    <img  src="soclosetowhat.jpeg">
+    <img src="iusedtothinkicouldfly.jpeg">
+    <img src="thinklater.jpeg">
+    <img src="thankunext.png">
+    <img src="sour.avif">
+    <img src="guts.png">
+    <br>
+    <h3>Playlist</h3>
+    <p>Here is a link to my Spotify playlist!
+        I have all of the above artists and albums, as well as other songs I enjoy listening to.</p>
+    <a href="https://open.spotify.com/playlist/3lXeUTylKbur4kIknnOWL3?si=4477d8edea964d2d" id="playlist">My Spotify Playlist</a>
+    <p id="white">I need a space at the bottom of this, lol. Don't judge please.</p>
+</body>
